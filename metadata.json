@@ -1,0 +1,6 @@
+{
+  "name": "Attendance & Placement Skipper Analyzer",
+  "description": "Analyze and compare Classroom and CRT student attendance data, identify skippers, and track batch-wise placement metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
